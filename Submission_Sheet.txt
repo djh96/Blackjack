@@ -1,0 +1,10 @@
+Daniel Hodgson
+Assignment 2
+djh96
+https://github.com/djh96/Blackjack
+Ben Pratt
+Tuesday 10:00 - 11:50
+Turned in on 02/20/2016
+Yes the program compiles without error.
+Yes the program runs without error.
+Part of the assignment said to include the number of blackjacks won, so I did.  Refer to example text file.
